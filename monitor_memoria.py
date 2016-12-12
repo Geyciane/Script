@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 
 ###############################################################################
-# título		: monitor_cpu.py 								              #
-# descrição		: monitora a porcentagem de consumo de cpu de cada IDS	      #
-# autor			: Geyciane Tavares Jorge <geycianetj@gmail.com> 	          #
-# notas			: instalar o pacote python-psutil 					          #
+# título		: monitor_cpu.py 								              
+# descrição		: monitora a porcentagem de consumo de cpu de cada IDS	      
+# autor			: Geyciane Tavares Jorge <geycianetj@gmail.com> 	          
+# notas			: instalar o pacote python-psutil 					          
 ###############################################################################
 
 
